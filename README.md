@@ -1,5 +1,5 @@
-# JavaEE
-博客管理系统
+# 博客管理系统
+
 环境: IDEA(pro) mysql 
 框架: springboot+mybatis 
 
